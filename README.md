@@ -3,7 +3,8 @@
 ![alt text](https://github.com/AidaiIs/HelloWorld/blob/main/Aidai%20Testing.jpg?raw=true)
 
 
-- :mailbox: Find me around the web [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aidaiiskender/)[!Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aidai.iskender/)
+🌐Find me around the web [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aidaiiskender/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aidai.iskender/)
 
 
 
