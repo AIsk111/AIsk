@@ -1,6 +1,6 @@
-##  Hello world! I am Aidai Iskender 👋 
+##  Hi, I'm Aidai 👋 👩‍💻
+![alt text](https://github.com/[AidaiIs]/[]/blob/[branch]/image.jpg?](https://github.com/AidaiIs/HelloWorld/blob/main/Aidai%20Testing.jpg)raw=true)
 
-I'm QA Automation Engineer 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aidaiiskender/)
 
