@@ -1,9 +1,9 @@
-##  Hi, I'm Aidai 👋 👩‍💻
+##  Hi, I'm [Aidai](https://www.linkedin.com/in/aidaiiskender/) 👋 👩‍💻
 
 ![alt text](https://github.com/AidaiIs/HelloWorld/blob/main/Aidai%20Testing.jpg?raw=true)
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aidaiiskender/)
+- :mailbox: Find me [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aidaiiskender/)
 
 
 
@@ -23,10 +23,4 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-1572B6?style=for-the-badge&logo=Confluence&logoColor=white)
-
-
-
-
-
-![c69fa6e9d0af971ba052817ae70c4261](https://user-images.githubusercontent.com/111836294/187246909-7039a3b4-0c1a-45d2-a21e-3b0ce9ec71dc.gif)
 
